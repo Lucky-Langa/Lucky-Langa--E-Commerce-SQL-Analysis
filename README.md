@@ -1,4 +1,4 @@
-# 
+# 🛒 E-Commerce SQL Analysis
 
 <div align="center">
 
