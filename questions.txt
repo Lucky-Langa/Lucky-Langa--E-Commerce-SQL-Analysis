@@ -1,0 +1,44 @@
+25 Data-Driven Questions for the Olist SQL Project
+
+1. Sales & Revenue Analysis
+	1.	What is the total revenue generated per year and per month?
+	2.	Which product categories generate the highest revenue?
+	3.	What are the top 10 most profitable products?
+	4.	Which states or cities generate the most sales revenue?
+	5.	How much revenue does each seller generate on average?
+
+⸻
+
+2. Customer Behavior Analysis
+	1.	Which customers placed the highest number of orders?
+	2.	What is the average number of orders per customer?
+	3.	Which states have the highest number of customers?
+	4.	What percentage of customers are repeat buyers?
+	5.	What is the average order value (AOV) per customer?
+
+⸻
+
+3. Product Performance
+	1.	Which product categories are purchased the most?
+	2.	Which product categories receive the highest average review score?
+	3.	Which product categories receive the lowest ratings?
+	4.	What categories generate high sales but low customer satisfaction?
+	5.	Which products have the highest shipping costs relative to price?
+
+⸻
+
+4. Seller Performance
+	1.	Which sellers have the highest total revenue?
+	2.	Which sellers deliver orders the fastest?
+	3.	Which sellers receive the best customer review ratings?
+	4.	Which sellers have the highest cancellation rate?
+	5.	How many product category does each seller sell on average?
+
+⸻
+
+5. Delivery & Logistics
+	1.	What is the average delivery time from purchase to delivery?
+	2.	Which states experience the longest delivery times?
+	3.	What percentage of orders are delivered later than the estimated date?
+	4.	Does delivery delay affect review scores?
+	5.	Which product categories have the longest shipping times?
